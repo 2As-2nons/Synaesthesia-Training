@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 
 /**
- * Passive Drill Game – replicates the training block described in Table s2.
+ * Passive Drill Game – replicates the training block described in Table s2. Coded with ChatGPT
  *
  * HOW IT WORKS
  * 1. Click "Start" to generate a randomized training block.
